@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw-jetbrains-plugin",
+  "elements": [
+    {
+      "id": "v8NnbdgSlU8iGcoi6Q81P",
+      "type": "text",
+      "x": 233.4000244140625,
+      "y": 106.79998779296875,
+      "width": 675,
+      "height": 211.2,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 819767355,
+      "version": 110,
+      "versionNonce": 761716597,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1776910396696,
+      "link": null,
+      "locked": false,
+      "text": "1. Java is a popular and powerful programming language, created in 1995.\n2. It is owned by Oracle, and more than 3 billion devices run Java.\n3. It is used for:\n\n    - Mobile applications (specially Android apps)\n    - Desktop applications\n    - Web applications\n    - Web servers and application servers\n    - Games\n    - Database connection\n    - And much, much more!",
+      "fontSize": 16,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 207,
+      "containerId": null,
+      "originalText": "1. Java is a popular and powerful programming language, created in 1995.\n2. It is owned by Oracle, and more than 3 billion devices run Java.\n3. It is used for:\n\n    - Mobile applications (specially Android apps)\n    - Desktop applications\n    - Web applications\n    - Web servers and application servers\n    - Games\n    - Database connection\n    - And much, much more!",
+      "lineHeight": 1.2
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
